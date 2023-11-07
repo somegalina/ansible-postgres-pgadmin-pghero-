@@ -1,0 +1,3 @@
+db_user: gb_user
+db_password: gbsecurity
+db_name: test
